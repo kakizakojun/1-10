@@ -69,22 +69,23 @@ footer{
   header{
     width: 100%;
   }
-  
+
   main{
     width: 100%;
     display: block;
+    margin: auto;
   }
-  
+
   .step-box{
     width: 90%;
     margin: 20px;
   }
-  
+
   .box-img1,
   .box-img2,
   .box-img3{
     height: 150px;
   }
-  
+
 
 }
